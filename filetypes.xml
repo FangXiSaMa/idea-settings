@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="gitignore_global.txt" type="Git file" />
+      <mapping pattern="part-00000" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

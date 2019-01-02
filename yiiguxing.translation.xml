@@ -1,0 +1,63 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="忽略" />
+      <item value="peek" />
+      <item value="MINUTES" />
+      <item value="SECONDS" />
+      <item value="注解" />
+      <item value="未知" />
+      <item value="结构" />
+      <item value="常量" />
+      <item value="identity" />
+      <item value="Mongo database URI. Cannot be set with host, port and credentials." />
+      <item value="缩略图" />
+      <item value="列" />
+      <item value="字段" />
+      <item value="save From To" />
+      <item value="partake" />
+      <item value="标准" />
+      <item value="move" />
+      <item value="移动" />
+      <item value="drop" />
+      <item value="delimiter" />
+      <item value="Collection" />
+      <item value="收藏" />
+      <item value="单" />
+      <item value="多" />
+      <item value="The format used will be the shortest that outputs the full value of * the time where the omitted parts are implied to be zero." />
+      <item value="Outputs this date-time as a {@code String}, such as {@code 2007-12-03T10:15:30}." />
+      <item value="05 T 064608" />
+      <item value="The default priority that is assigned to a thread." />
+      <item value="Returns this thread's priority." />
+      <item value="Tests if this thread is a daemon thread." />
+      <item value="the desired stack size for the new thread, or * zero to indicate that this parameter is to be ignored." />
+      <item value="@return if a security manager has already been established for the * current application, then that security manager is returned; * otherwise, &lt;code&gt;null&lt;/code&gt; is returned." />
+      <item value="Gets the system security interface." />
+      <item value="reates a thread pool that maintains enough threads to support * the given parallelism level, and may use multiple queues to * reduce contention. The parallelism level corresponds to the * maximum number of threads actively engaged in, or available to * engage in, task processing. The actual number of threads may * grow and shrink dynamically. A work-stealing pool makes no * guarantees about the order in which submitted tasks are * executed." />
+      <item value="Creates a work-stealing thread pool using all" />
+      <item value="corePoolSize the number of threads to keep in the pool, even * if they are idle, unless {@code allowCoreThreadTimeOut} is set" />
+      <item value="条件" />
+      <item value="调价" />
+      <item value="分享" />
+      <item value="enjoy" />
+      <item value="共享" />
+      <item value="the result type of the downstream reduction" />
+      <item value="the intermediate accumulation type of the downstream collector" />
+      <item value="the type of the keys" />
+      <item value="the type of the input elements" />
+      <item value="前一个" />
+      <item value="上" />
+      <item value="上一个" />
+      <item value="Creates a localized description of this throwable." />
+      <item value="规则" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="80" />
+        <entry key="ENGLISH" value="81" />
+        <entry key="SWEDISH" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
