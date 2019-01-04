@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Watched" />
+      <item value="Subject" />
+      <item value="Observer" />
       <item value="忽略" />
       <item value="peek" />
       <item value="MINUTES" />
@@ -48,14 +51,11 @@
       <item value="the type of the input elements" />
       <item value="前一个" />
       <item value="上" />
-      <item value="上一个" />
-      <item value="Creates a localized description of this throwable." />
-      <item value="规则" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
