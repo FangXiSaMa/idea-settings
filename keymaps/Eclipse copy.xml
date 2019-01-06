@@ -1,57 +1,52 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
-  <action id="$EditorTranslateAction">
-    <keyboard-shortcut first-keystroke="shift ctrl y" />
-    <keyboard-shortcut first-keystroke="alt 1" />
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="meta c" />
   </action>
-  <action id="ActivateProjectToolWindow" />
-  <action id="ActivateSmartIMToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl alt z" />
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+    <keyboard-shortcut first-keystroke="shift delete" />
+    <keyboard-shortcut first-keystroke="meta x" />
   </action>
-  <action id="ChangesView.Revert" />
-  <action id="CloseActiveTab" />
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+    <keyboard-shortcut first-keystroke="meta z" />
+  </action>
   <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="meta w" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
-  <action id="Console.Execute.Multiline">
-    <keyboard-shortcut first-keystroke="ctrl enter" />
-    <keyboard-shortcut first-keystroke="ctrl r" />
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="meta c" />
   </action>
-  <action id="Editor EditorTranslateAction">
-    <keyboard-shortcut first-keystroke="alt 1" />
+  <action id="Editor Cut">
+    <keyboard-shortcut first-keystroke="meta x" />
   </action>
-  <action id="ExpandAllRegions">
-    <keyboard-shortcut first-keystroke="shift ctrl multiply" />
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
   </action>
-  <action id="FileChooser.NewFolder">
-    <keyboard-shortcut first-keystroke="alt insert" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="meta z" />
   </action>
   <action id="Generate">
-    <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="shift alt s" />
   </action>
-  <action id="MethodHierarchy" />
-  <action id="NewClass">
-    <keyboard-shortcut first-keystroke="ctrl n" />
-  </action>
-  <action id="NewDir">
-    <keyboard-shortcut first-keystroke="shift ctrl n" />
-  </action>
-  <action id="ReplaceInPath">
-    <keyboard-shortcut first-keystroke="shift ctrl h" />
-  </action>
-  <action id="RunToCursor" />
   <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="ctrl f10" />
     <keyboard-shortcut first-keystroke="shift alt t" />
-  </action>
-  <action id="Vcs.RollbackChangedLines" />
-  <action id="com.github.setial.intellijjavadocs.action.JavaDocsGenerateActionOnEditor" />
-  <action id="com.github.setial.intellijjavadocs.action.JavaDocsGenerateActionOnProject">
-    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
-  </action>
-  <action id="com.github.setial.intellijjavadocs.action.JavaDocsRemoveActionOnEditor" />
-  <action id="com.github.setial.intellijjavadocs.action.JavaDocsRemoveActionOnProject">
-    <keyboard-shortcut first-keystroke="shift ctrl alt z" />
   </action>
   <action id="context.save" />
 </keymap>
