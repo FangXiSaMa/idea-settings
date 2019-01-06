@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Transform this {@link Mono} into a target type." />
       <item value="Only one connection receive subscriber allowed." />
       <item value="Provide a default single value if this mono is completed without any data" />
       <item value="Fallback to an alternative {@link Mono} if this mono is completed without data" />
@@ -50,12 +51,11 @@
       <item value="enjoy" />
       <item value="共享" />
       <item value="the result type of the downstream reduction" />
-      <item value="the intermediate accumulation type of the downstream collector" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
