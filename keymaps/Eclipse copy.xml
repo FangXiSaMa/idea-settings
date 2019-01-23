@@ -60,9 +60,13 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="shift alt s" />
   </action>
+  <action id="MethodHierarchy" />
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="ctrl f10" />

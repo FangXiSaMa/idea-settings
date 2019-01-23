@@ -1,63 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="1024" />
-      <item value="compiler" />
-      <item value="ubscribe a {@link Consumer} to this {@link Mono} that will consume all the" />
-      <item value="is Disposed(" />
-      <item value="dispose" />
-      <item value="subscribe" />
-      <item value="Transform this {@link Mono} into a target type." />
-      <item value="Only one connection receive subscriber allowed." />
-      <item value="Provide a default single value if this mono is completed without any data" />
-      <item value="Fallback to an alternative {@link Mono} if this mono is completed without data" />
-      <item value="nest" />
-      <item value="Watched" />
-      <item value="Subject" />
-      <item value="Observer" />
-      <item value="忽略" />
-      <item value="peek" />
-      <item value="MINUTES" />
-      <item value="SECONDS" />
-      <item value="注解" />
-      <item value="未知" />
-      <item value="结构" />
-      <item value="常量" />
-      <item value="identity" />
-      <item value="Mongo database URI. Cannot be set with host, port and credentials." />
-      <item value="缩略图" />
-      <item value="列" />
-      <item value="字段" />
-      <item value="save From To" />
-      <item value="partake" />
-      <item value="标准" />
-      <item value="move" />
-      <item value="移动" />
-      <item value="drop" />
-      <item value="delimiter" />
-      <item value="Collection" />
-      <item value="收藏" />
-      <item value="单" />
-      <item value="多" />
-      <item value="The format used will be the shortest that outputs the full value of * the time where the omitted parts are implied to be zero." />
-      <item value="Outputs this date-time as a {@code String}, such as {@code 2007-12-03T10:15:30}." />
-      <item value="05 T 064608" />
-      <item value="The default priority that is assigned to a thread." />
-      <item value="Returns this thread's priority." />
-      <item value="Tests if this thread is a daemon thread." />
-      <item value="the desired stack size for the new thread, or * zero to indicate that this parameter is to be ignored." />
-      <item value="@return if a security manager has already been established for the * current application, then that security manager is returned; * otherwise, &lt;code&gt;null&lt;/code&gt; is returned." />
-      <item value="Gets the system security interface." />
-      <item value="reates a thread pool that maintains enough threads to support * the given parallelism level, and may use multiple queues to * reduce contention. The parallelism level corresponds to the * maximum number of threads actively engaged in, or available to * engage in, task processing. The actual number of threads may * grow and shrink dynamically. A work-stealing pool makes no * guarantees about the order in which submitted tasks are * executed." />
-      <item value="Creates a work-stealing thread pool using all" />
-      <item value="corePoolSize the number of threads to keep in the pool, even * if they are idle, unless {@code allowCoreThreadTimeOut} is set" />
+      <item value="username" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="92" />
-        <entry key="FRENCH" value="1" />
-        <entry key="SWEDISH" value="1" />
+        <entry key="ENGLISH" value="1" />
       </map>
     </option>
   </component>
