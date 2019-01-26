@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="List of sensitive headers that are not passed to downstream requests. Defaults to a * &quot;safe&quot; set of headers that commonly contain user credentials. It's OK to remove * those from the list if the downstream service is part of the same system as the * proxy, so they are sharing authentication data. If using a physical URL outside * your own domain, then generally it would be a bad idea to leak user credentials." />
       <item value="SECONDS" />
       <item value="MINUTES" />
       <item value="feign" />
@@ -8,8 +9,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
