@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已支付" />
+      <item value="未支付" />
       <item value="Expectation" />
       <item value="未知用户" />
       <item value="拦截器" />
