@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="全局" />
       <item value="已支付" />
       <item value="未支付" />
       <item value="Expectation" />
