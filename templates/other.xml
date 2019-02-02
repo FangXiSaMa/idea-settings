@@ -1,0 +1,8 @@
+<templateSet group="other">
+  <template name="ok" value="return ResponseEntity.ok($VAR$);" description="return ResponseEntity.ok(T t);" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="suggestFirstVariableName(&quot;Object&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
