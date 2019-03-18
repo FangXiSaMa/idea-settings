@@ -35,6 +35,9 @@
     <keyboard-shortcut first-keystroke="meta w" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+  </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
