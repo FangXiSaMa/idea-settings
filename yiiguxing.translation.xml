@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="统计" />
       <item value="审核通过" />
       <item value="审核未通过待退款" />
       <item value="已取消" />
@@ -50,12 +51,11 @@
       <item value="Expectation" />
       <item value="未知用户" />
       <item value="拦截器" />
-      <item value="convert" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
