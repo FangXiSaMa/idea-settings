@@ -1,7 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="天气预报" />
+      <item value="pressure" />
       <item value="统计" />
+      <item value="humidity" />
+      <item value="temperature" />
+      <item value="Current Conditions Display" />
       <item value="审核通过" />
       <item value="审核未通过待退款" />
       <item value="已取消" />
@@ -46,16 +51,11 @@
       <item value="total Page" />
       <item value="per-page" />
       <item value="全局" />
-      <item value="已支付" />
-      <item value="未支付" />
-      <item value="Expectation" />
-      <item value="未知用户" />
-      <item value="拦截器" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="47" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
