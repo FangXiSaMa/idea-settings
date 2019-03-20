@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="图表" />
+      <item value="图标" />
       <item value="Flag that enables DiscoveryClient gateway integration" />
       <item value="待审核" />
       <item value="天气预报" />
@@ -49,8 +51,6 @@
       <item value="生成" />
       <item value="sensitive" />
       <item value="关联" />
-      <item value="刷新" />
-      <item value="total Page" />
     </histories>
     <option name="languageScores">
       <map>
