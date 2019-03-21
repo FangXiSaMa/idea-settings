@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="年龄段" />
       <item value="Service id not legal hostname" />
       <item value="图表" />
       <item value="图标" />
@@ -50,7 +51,6 @@
       <item value="字段" />
       <item value="Filed" />
       <item value="生成" />
-      <item value="sensitive" />
     </histories>
     <option name="languageScores">
       <map>
