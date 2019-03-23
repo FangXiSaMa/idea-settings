@@ -1,0 +1,7 @@
+<templateSet group="SQL">
+  <template name="seli" value="select&#10;&lt;include refid=&quot;Base_Column_List&quot;/&gt;&#10;from " description="select &lt;include refid=&quot;Base_Column_List&quot;/&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SQL_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
