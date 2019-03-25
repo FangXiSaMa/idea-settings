@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="存储" />
+      <item value="stroe" />
+      <item value="sotre" />
       <item value="podcast" />
       <item value="male" />
       <item value="招聘" />
@@ -48,14 +51,11 @@
       <item value="content" />
       <item value="c" />
       <item value="present" />
-      <item value="terms" />
-      <item value="异步" />
-      <item value="Sync" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="59" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
