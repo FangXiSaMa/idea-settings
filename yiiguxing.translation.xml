@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="essay" />
+      <item value="文章" />
       <item value="state" />
       <item value="点赞" />
       <item value="存储" />
@@ -49,12 +51,10 @@
       <item value="deprecated" />
       <item value="策略" />
       <item value="No Content" />
-      <item value="content" />
-      <item value="c" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
+        <entry key="CHINESE" value="60" />
         <entry key="ENGLISH" value="60" />
         <entry key="SPANISH" value="2" />
       </map>
