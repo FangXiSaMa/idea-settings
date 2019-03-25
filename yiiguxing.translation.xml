@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gather" />
       <item value="essay" />
       <item value="文章" />
       <item value="state" />
@@ -50,12 +51,11 @@
       <item value="Mallard Duck" />
       <item value="deprecated" />
       <item value="策略" />
-      <item value="No Content" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
