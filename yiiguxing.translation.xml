@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="podcast" />
       <item value="male" />
       <item value="招聘" />
       <item value="Immutable Map" />
@@ -50,7 +51,6 @@
       <item value="terms" />
       <item value="异步" />
       <item value="Sync" />
-      <item value="generic Spec" />
     </histories>
     <option name="languageScores">
       <map>
