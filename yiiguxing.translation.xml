@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MaxPermSize" />
       <item value="列名" />
       <item value="属性" />
       <item value="字段" />
@@ -50,11 +51,10 @@
       <item value="权限" />
       <item value="Resolver" />
       <item value="常量" />
-      <item value="FORBIDDEN" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
+        <entry key="CHINESE" value="61" />
         <entry key="ENGLISH" value="61" />
         <entry key="SPANISH" value="2" />
       </map>
