@@ -1,6 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NOT ACCEPTABLE" />
+      <item value="PROXY AUTHENTICATION REQUIRED" />
+      <item value="REQUEST TIMEOUT" />
+      <item value="LOOP DETECTED" />
+      <item value="BANDWIDTH LIMIT EXCEEDED" />
+      <item value="NOT EXTENDED" />
+      <item value="NETWORK AUTHENTICATION REQUIRED" />
+      <item value="VARIANT ALSO NEGOTIATES" />
+      <item value="HTTP VERSION NOT SUPPORTED" />
+      <item value="GATEWAY TIMEOUT" />
+      <item value="INTERNAL SERVER ERROR" />
+      <item value="REQUEST HEADER FIELDS TOO LARGE" />
+      <item value="UNSUPPORTED MEDIA TYPE" />
+      <item value="PRECONDITION FAILED" />
+      <item value="CONFLICT" />
+      <item value="PERMANENT REDIRECT" />
+      <item value="METHOD NOT ALLOWED" />
+      <item value="PAYMENT REQUIRED" />
+      <item value="FORBIDDEN" />
+      <item value="Unauthorized" />
       <item value="handle" />
       <item value="handler" />
       <item value="处理" />
@@ -31,31 +51,11 @@
       <item value="Add URL patterns to which the registered interceptor should not apply to." />
       <item value="无效" />
       <item value="我欻吗" />
-      <item value="可访问" />
-      <item value="资金" />
-      <item value="年龄段" />
-      <item value="Service id not legal hostname" />
-      <item value="图表" />
-      <item value="图标" />
-      <item value="Flag that enables DiscoveryClient gateway integration" />
-      <item value="待审核" />
-      <item value="天气预报" />
-      <item value="pressure" />
-      <item value="统计" />
-      <item value="humidity" />
-      <item value="temperature" />
-      <item value="Current Conditions Display" />
-      <item value="审核通过" />
-      <item value="审核未通过待退款" />
-      <item value="已取消" />
-      <item value="03已取消" />
-      <item value="已付款待审核" />
-      <item value="待付款" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="DANISH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
