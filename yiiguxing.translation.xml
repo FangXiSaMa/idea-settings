@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="handle" />
+      <item value="handler" />
+      <item value="处理" />
       <item value="常量" />
       <item value="onvert the given number into an instance of the given target class." />
       <item value="MaxPermSize" />
@@ -48,14 +51,12 @@
       <item value="03已取消" />
       <item value="已付款待审核" />
       <item value="待付款" />
-      <item value="退" />
-      <item value="children" />
-      <item value="权限" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
+        <entry key="DANISH" value="2" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
