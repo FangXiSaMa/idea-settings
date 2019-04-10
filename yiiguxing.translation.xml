@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="商家" />
+      <item value="运营商" />
       <item value="optional" />
       <item value="UNAUTHORIZED" />
       <item value="PAYMENT REQUIRED" />
@@ -49,8 +51,6 @@
       <item value="stroe" />
       <item value="sotre" />
       <item value="podcast" />
-      <item value="male" />
-      <item value="招聘" />
     </histories>
     <option name="languageScores">
       <map>
