@@ -4,12 +4,12 @@
     <property name="created">2019-04-09T10:37:24</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-09T10:40:11</property>
+    <property name="modified">2019-04-10T19:24:18</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Droid Sans Mono" />
+  <option name="EDITOR_FONT_NAME" value="Monaco" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <colors>
