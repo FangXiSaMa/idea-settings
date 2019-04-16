@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="implement" />
+      <item value="implements" />
+      <item value="sys Dictionary Repository" />
       <item value="select All" />
       <item value="继续" />
       <item value="物理路径" />
@@ -48,18 +51,18 @@
       <item value="属性" />
       <item value="字段" />
       <item value="gather" />
-      <item value="essay" />
-      <item value="文章" />
-      <item value="state" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="96" />
+        <entry key="ENGLISH" value="97" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
   </component>
 </application>
