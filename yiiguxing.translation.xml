@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Resolving eureka endpoints via configuration" />
+      <item value="11" />
       <item value="文件系统" />
       <item value="implement" />
       <item value="implements" />
@@ -49,13 +51,11 @@
       <item value="onvert the given number into an instance of the given target class." />
       <item value="MaxPermSize" />
       <item value="列名" />
-      <item value="属性" />
-      <item value="字段" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="96" />
-        <entry key="ENGLISH" value="97" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="98" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SPANISH" value="2" />
