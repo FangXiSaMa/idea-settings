@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Resolving eureka endpoints via configuration" />
+      <item value="11" />
+      <item value="文件系统" />
+      <item value="implement" />
+      <item value="implements" />
+      <item value="sys Dictionary Repository" />
+      <item value="select All" />
+      <item value="继续" />
       <item value="物理路径" />
       <item value="publish" />
       <item value="发布" />
@@ -43,23 +51,18 @@
       <item value="onvert the given number into an instance of the given target class." />
       <item value="MaxPermSize" />
       <item value="列名" />
-      <item value="属性" />
-      <item value="字段" />
-      <item value="gather" />
-      <item value="essay" />
-      <item value="文章" />
-      <item value="state" />
-      <item value="点赞" />
-      <item value="存储" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="98" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
   </component>
 </application>
