@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Requests that the file or directory denoted by this abstract * pathname be deleted when the virtual machine terminates. * Files (or directories) are deleted in the reverse order that * they are registered. Invoking this method to delete a file or * directory that is already registered for deletion has no effect. * Deletion will be attempted only for normal termination of the * virtual machine, as defined by the Java Language Specification." />
+      <item value="folder" />
+      <item value="chunk" />
       <item value="Resolving eureka endpoints via configuration" />
       <item value="11" />
       <item value="文件系统" />
@@ -48,14 +51,11 @@
       <item value="handler" />
       <item value="处理" />
       <item value="常量" />
-      <item value="onvert the given number into an instance of the given target class." />
-      <item value="MaxPermSize" />
-      <item value="列名" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="CHINESE" value="100" />
+        <entry key="ENGLISH" value="101" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SPANISH" value="2" />
