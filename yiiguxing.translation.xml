@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="negate" />
+      <item value="Represents a function that accepts a long-valued argument and produces a * result. This is the {@code long}-consuming primitive specialization for * {@link Function}." />
+      <item value="predicate" />
       <item value="compute" />
       <item value="计算" />
       <item value="* Returns a composed function that first applies the {@code before} * function to its input, and then applies this function to the result. * If evaluation of either function throws an exception, it is relayed to * the caller of the composed function." />
@@ -48,14 +51,11 @@
       <item value="VARIANT ALSO NEGOTIATES" />
       <item value="HTTP VERSION NOT SUPPORTED" />
       <item value="GATEWAY TIMEOUT" />
-      <item value="INTERNAL SERVER ERROR" />
-      <item value="REQUEST HEADER FIELDS TOO LARGE" />
-      <item value="UNSUPPORTED MEDIA TYPE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="109" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="112" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SPANISH" value="2" />
