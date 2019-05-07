@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="性别" />
       <item value="value-based" />
       <item value="negate" />
       <item value="Represents a function that accepts a long-valued argument and produces a * result. This is the {@code long}-consuming primitive specialization for * {@link Function}." />
@@ -50,7 +51,6 @@
       <item value="NOT EXTENDED" />
       <item value="NETWORK AUTHENTICATION REQUIRED" />
       <item value="VARIANT ALSO NEGOTIATES" />
-      <item value="HTTP VERSION NOT SUPPORTED" />
     </histories>
     <option name="languageScores">
       <map>
