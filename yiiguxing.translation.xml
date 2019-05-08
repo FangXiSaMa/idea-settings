@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="identity" />
       <item value="性别" />
       <item value="value-based" />
       <item value="negate" />
@@ -50,12 +51,11 @@
       <item value="BANDWIDTH LIMIT EXCEEDED" />
       <item value="NOT EXTENDED" />
       <item value="NETWORK AUTHENTICATION REQUIRED" />
-      <item value="VARIANT ALSO NEGOTIATES" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="114" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SPANISH" value="2" />
