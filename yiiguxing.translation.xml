@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="审核不通过" />
+      <item value="审核通过" />
       <item value="identity" />
       <item value="性别" />
       <item value="value-based" />
@@ -49,8 +51,6 @@
       <item value="REQUEST TIMEOUT" />
       <item value="LOOP DETECTED" />
       <item value="BANDWIDTH LIMIT EXCEEDED" />
-      <item value="NOT EXTENDED" />
-      <item value="NETWORK AUTHENTICATION REQUIRED" />
     </histories>
     <option name="languageScores">
       <map>
