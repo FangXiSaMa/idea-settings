@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reentrant Lock" />
       <item value="自定义" />
       <item value="* Retrieves and removes the head of this queue, waiting if necessary * until an element becomes available." />
       <item value="消费者" />
@@ -50,12 +51,11 @@
       <item value="规格" />
       <item value="manager" />
       <item value="审核" />
-      <item value="seller" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="116" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SPANISH" value="2" />
