@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="驼峰" />
+      <item value="TOF" />
       <item value="declaring Class" />
       <item value="lang" />
       <item value="Reentrant Lock" />
@@ -49,13 +51,11 @@
       <item value="UNAUTHORIZED" />
       <item value="PAYMENT REQUIRED" />
       <item value="NOT ACCEPTABLE" />
-      <item value="laster" />
-      <item value="规格" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="117" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="ENGLISH" value="118" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SPANISH" value="2" />
