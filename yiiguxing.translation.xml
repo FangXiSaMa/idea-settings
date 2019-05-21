@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="an array of {@code Type} objects representing the actual type * arguments to this type" />
+      <item value="Note that in some cases, the returned array be empty. This can occur * if this type represents a non-parameterized type nested within * a parameterized type." />
+      <item value="Returns an array of {@code Type} objects representing the actual type * arguments to this type." />
+      <item value="get Actual Type Arguments" />
       <item value="驼峰" />
       <item value="TOF" />
       <item value="declaring Class" />
@@ -47,15 +51,11 @@
       <item value="发布" />
       <item value="商家" />
       <item value="运营商" />
-      <item value="optional" />
-      <item value="UNAUTHORIZED" />
-      <item value="PAYMENT REQUIRED" />
-      <item value="NOT ACCEPTABLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="117" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="CHINESE" value="121" />
+        <entry key="ENGLISH" value="122" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SPANISH" value="2" />
