@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="表达式" />
       <item value="Idempotency" />
       <item value="注解" />
       <item value="可用" />
@@ -50,7 +51,6 @@
       <item value="sys Dictionary Repository" />
       <item value="select All" />
       <item value="继续" />
-      <item value="物理路径" />
     </histories>
     <option name="languageScores">
       <map>
