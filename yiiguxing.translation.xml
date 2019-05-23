@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="拦截" />
+      <item value="test and verify" />
+      <item value="验证" />
+      <item value="暗战" />
       <item value="表达式" />
       <item value="Idempotency" />
       <item value="注解" />
@@ -47,15 +51,11 @@
       <item value="11" />
       <item value="文件系统" />
       <item value="implement" />
-      <item value="implements" />
-      <item value="sys Dictionary Repository" />
-      <item value="select All" />
-      <item value="继续" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="124" />
+        <entry key="ENGLISH" value="125" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SPANISH" value="2" />
