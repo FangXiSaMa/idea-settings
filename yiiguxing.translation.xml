@@ -1,13 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mobile" />
+      <item value="test and verify" />
+      <item value="验证" />
       <item value="refresh Token Validity Seconds" />
       <item value="access Token Validity Seconds" />
       <item value="不可变" />
       <item value="可不变" />
       <item value="拦截" />
-      <item value="test and verify" />
-      <item value="验证" />
       <item value="暗战" />
       <item value="表达式" />
       <item value="Idempotency" />
@@ -50,12 +51,11 @@
       <item value="druid" />
       <item value="* Requests that the file or directory denoted by this abstract * pathname be deleted when the virtual machine terminates. * Files (or directories) are deleted in the reverse order that * they are registered. Invoking this method to delete a file or * directory that is already registered for deletion has no effect. * Deletion will be attempted only for normal termination of the * virtual machine, as defined by the Java Language Specification." />
       <item value="folder" />
-      <item value="chunk" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="126" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="CHINESE" value="127" />
+        <entry key="ENGLISH" value="128" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SPANISH" value="2" />
