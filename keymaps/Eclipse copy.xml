@@ -30,6 +30,11 @@
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
   <action id="ActivateProjectToolWindow" />
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="meta w" />
@@ -59,7 +64,9 @@
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
+  <action id="EditorScrollToCenter" />
   <action id="FileChooser.NewFolder" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="shift alt s" />
   </action>
@@ -68,6 +75,10 @@
     <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="Print" />
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="ctrl e" />
     <keyboard-shortcut first-keystroke="meta e" />
@@ -79,9 +90,15 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
+  <action id="ScrollTreeToCenter" />
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="ctrl f10" />
     <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="TodoViewGroupByShowModules" />
+  <action id="TodoViewGroupByShowPackages" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="context.save" />
 </keymap>

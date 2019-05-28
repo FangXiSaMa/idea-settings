@@ -1,10 +1,10 @@
 <application>
   <component name="ExportableFileTemplateSettings">
-    <default_templates>
-      <template name="EnumSingleton.java" reformat="true" live-template-enabled="true" />
-    </default_templates>
     <includes_templates>
       <template name="File Header.java" reformat="true" live-template-enabled="true" enabled="true" />
     </includes_templates>
+    <j2ee_templates>
+      <template name="Servlet Class.java" reformat="true" live-template-enabled="true" enabled="true" />
+    </j2ee_templates>
   </component>
 </application>
