@@ -90,6 +90,10 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="RunToCursor" />
   <action id="ScrollTreeToCenter" />
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="ctrl f10" />
