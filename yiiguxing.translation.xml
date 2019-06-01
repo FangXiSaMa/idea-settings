@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="存在" />
       <item value="驼峰命名" />
       <item value="驼峰" />
       <item value="despoty" />
@@ -50,7 +51,6 @@
       <item value="Object" />
       <item value="Class Loader" />
       <item value="双亲" />
-      <item value="opcode" />
     </histories>
     <option name="languageScores">
       <map>
