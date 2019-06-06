@@ -1,13 +1,9 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="阿里云" type="docker">
+    <remote-server name="本地" type="docker">
       <configuration>
-        <option name="apiUrl" value="tcp://116.62.159.14:2375" />
-      </configuration>
-    </remote-server>
-    <remote-server name="测试环境" type="docker">
-      <configuration>
-        <option name="apiUrl" value="tcp://192.168.2.116:2375" />
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="certificatesPath" />
       </configuration>
     </remote-server>
   </component>
