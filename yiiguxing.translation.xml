@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Correct the classpath of your application so that it contains a single, compatible version of com.baomidou.mybatisplus.core.MybatisConfiguration" />
       <item value="Forbidden" />
       <item value="Unauthorized" />
       <item value="SAME NUMBER" />
@@ -50,12 +51,11 @@
       <item value="predicate" />
       <item value="compute" />
       <item value="计算" />
-      <item value="* Returns a composed function that first applies the {@code before} * function to its input, and then applies this function to the result. * If evaluation of either function throws an exception, it is relayed to * the caller of the composed function." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
-        <entry key="ENGLISH" value="133" />
+        <entry key="CHINESE" value="133" />
+        <entry key="ENGLISH" value="134" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SPANISH" value="2" />
