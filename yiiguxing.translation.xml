@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This will be used as the bean name instead of name if present, but will not be used * as a service id." />
       <item value="Correct the classpath of your application so that it contains a single, compatible version of com.baomidou.mybatisplus.core.MybatisConfiguration" />
       <item value="Forbidden" />
       <item value="Unauthorized" />
@@ -50,12 +51,11 @@
       <item value="Represents a function that accepts a long-valued argument and produces a * result. This is the {@code long}-consuming primitive specialization for * {@link Function}." />
       <item value="predicate" />
       <item value="compute" />
-      <item value="计算" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="133" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="CHINESE" value="134" />
+        <entry key="ENGLISH" value="135" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SPANISH" value="2" />
