@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Expectation Failed" />
+      <item value="I'm a teapot" />
+      <item value="Precondition Required" />
+      <item value="Network Authentication Required" />
+      <item value="Not Extended" />
+      <item value="Insufficient Storage" />
+      <item value="Service Unavailable" />
+      <item value="Bad Gateway" />
+      <item value="Not Implemented" />
       <item value="This will be used as the bean name instead of name if present, but will not be used * as a service id." />
       <item value="Correct the classpath of your application so that it contains a single, compatible version of com.baomidou.mybatisplus.core.MybatisConfiguration" />
       <item value="Forbidden" />
@@ -42,20 +51,11 @@
       <item value="下架" />
       <item value="已下架" />
       <item value="未提交" />
-      <item value="审核不通过" />
-      <item value="审核通过" />
-      <item value="identity" />
-      <item value="性别" />
-      <item value="value-based" />
-      <item value="negate" />
-      <item value="Represents a function that accepts a long-valued argument and produces a * result. This is the {@code long}-consuming primitive specialization for * {@link Function}." />
-      <item value="predicate" />
-      <item value="compute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="134" />
-        <entry key="ENGLISH" value="135" />
+        <entry key="CHINESE" value="143" />
+        <entry key="ENGLISH" value="144" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SPANISH" value="2" />
