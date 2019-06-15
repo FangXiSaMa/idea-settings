@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="无效" />
       <item value="Required List parameter 'ids' is not present" />
       <item value="Expectation Failed" />
       <item value="I'm a teapot" />
@@ -50,7 +51,6 @@
       <item value="消费者" />
       <item value="生产者" />
       <item value="下架" />
-      <item value="已下架" />
     </histories>
     <option name="languageScores">
       <map>
