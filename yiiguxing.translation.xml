@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Interface for general web request interception. Allows for being applied" />
       <item value="ndicate that message handling is complete, allowing for any cleanup or * end-of-processing tasks to be performed such as applying header changes * made via {@link #getHeaders()} to the underlying HTTP message (if not" />
       <item value="Converts this instant to the number of milliseconds from the epoch" />
       <item value="milliseconds" />
@@ -50,12 +51,11 @@
       <item value="declaring Class" />
       <item value="lang" />
       <item value="Reentrant Lock" />
-      <item value="自定义" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="147" />
+        <entry key="ENGLISH" value="148" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SPANISH" value="2" />
