@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ndicate that message handling is complete, allowing for any cleanup or * end-of-processing tasks to be performed such as applying header changes * made via {@link #getHeaders()} to the underlying HTTP message (if not" />
       <item value="Converts this instant to the number of milliseconds from the epoch" />
       <item value="milliseconds" />
       <item value="不存在" />
@@ -50,7 +51,6 @@
       <item value="lang" />
       <item value="Reentrant Lock" />
       <item value="自定义" />
-      <item value="* Retrieves and removes the head of this queue, waiting if necessary * until an element becomes available." />
     </histories>
     <option name="languageScores">
       <map>
