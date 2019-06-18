@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="书本" />
+      <item value="Address" />
       <item value="合并" />
       <item value="清空" />
       <item value="Interface for general web request interception. Allows for being applied" />
@@ -49,13 +51,11 @@
       <item value="Note that in some cases, the returned array be empty. This can occur * if this type represents a non-parameterized type nested within * a parameterized type." />
       <item value="Returns an array of {@code Type} objects representing the actual type * arguments to this type." />
       <item value="get Actual Type Arguments" />
-      <item value="TOF" />
-      <item value="declaring Class" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SPANISH" value="2" />
