@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Nested" />
+      <item value="is Nested Archive" />
+      <item value="provided" />
       <item value="书本" />
       <item value="Address" />
       <item value="合并" />
@@ -48,14 +51,11 @@
       <item value="可用" />
       <item value="MINUTES" />
       <item value="an array of {@code Type} objects representing the actual type * arguments to this type" />
-      <item value="Note that in some cases, the returned array be empty. This can occur * if this type represents a non-parameterized type nested within * a parameterized type." />
-      <item value="Returns an array of {@code Type} objects representing the actual type * arguments to this type." />
-      <item value="get Actual Type Arguments" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="152" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SPANISH" value="2" />
