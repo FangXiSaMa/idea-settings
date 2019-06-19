@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Archive" />
       <item value="Nested" />
       <item value="is Nested Archive" />
       <item value="provided" />
@@ -50,12 +51,11 @@
       <item value="注解" />
       <item value="可用" />
       <item value="MINUTES" />
-      <item value="an array of {@code Type} objects representing the actual type * arguments to this type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="154" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SPANISH" value="2" />
