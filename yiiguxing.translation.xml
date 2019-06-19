@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Create a classloader for the specified archives." />
+      <item value="Launch the application. This method is the initial entry point that should be * called by a subclass {@code public static void main(String[] args)} method." />
       <item value="Archive" />
       <item value="Nested" />
       <item value="is Nested Archive" />
@@ -49,13 +51,11 @@
       <item value="表达式" />
       <item value="Idempotency" />
       <item value="注解" />
-      <item value="可用" />
-      <item value="MINUTES" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="153" />
-        <entry key="ENGLISH" value="154" />
+        <entry key="CHINESE" value="155" />
+        <entry key="ENGLISH" value="156" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SPANISH" value="2" />
