@@ -1,0 +1,16 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="sout" key=".sout" provider="builtin.java" builtin="sout" language-level="1.3" topmost="true">
+      <conditions>
+        <condition id="non void" />
+      </conditions>
+      <template name="fakeKey" value="System.out.println($EXPR$);$END$" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="ok@userDefined" key=".ok" provider="builtin.java" language-level="8" topmost="true">
+      <conditions>
+        <condition id="non void" />
+      </conditions>
+      <template name="fakeKey" value="ResponseEntity.ok($EXPR$);$END$" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>

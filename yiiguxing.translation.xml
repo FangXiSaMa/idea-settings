@@ -1,0 +1,68 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Wrapper" />
+      <item value="A BeanDefinition describes a bean instance, which has property values, * constructor argument values, and further information supplied by * concrete implementations." />
+      <item value="Create a classloader for the specified archives." />
+      <item value="Launch the application. This method is the initial entry point that should be * called by a subclass {@code public static void main(String[] args)} method." />
+      <item value="Archive" />
+      <item value="Nested" />
+      <item value="is Nested Archive" />
+      <item value="provided" />
+      <item value="书本" />
+      <item value="Address" />
+      <item value="合并" />
+      <item value="清空" />
+      <item value="Interface for general web request interception. Allows for being applied" />
+      <item value="ndicate that message handling is complete, allowing for any cleanup or * end-of-processing tasks to be performed such as applying header changes * made via {@link #getHeaders()} to the underlying HTTP message (if not" />
+      <item value="Converts this instant to the number of milliseconds from the epoch" />
+      <item value="milliseconds" />
+      <item value="不存在" />
+      <item value="无效" />
+      <item value="Required List parameter 'ids' is not present" />
+      <item value="Expectation Failed" />
+      <item value="I'm a teapot" />
+      <item value="Precondition Required" />
+      <item value="Network Authentication Required" />
+      <item value="Not Extended" />
+      <item value="Insufficient Storage" />
+      <item value="Service Unavailable" />
+      <item value="Bad Gateway" />
+      <item value="Not Implemented" />
+      <item value="This will be used as the bean name instead of name if present, but will not be used * as a service id." />
+      <item value="Correct the classpath of your application so that it contains a single, compatible version of com.baomidou.mybatisplus.core.MybatisConfiguration" />
+      <item value="Forbidden" />
+      <item value="Unauthorized" />
+      <item value="SAME NUMBER" />
+      <item value="instead" />
+      <item value="存在" />
+      <item value="驼峰命名" />
+      <item value="驼峰" />
+      <item value="despoty" />
+      <item value="depoty" />
+      <item value="发布" />
+      <item value="mobile" />
+      <item value="test and verify" />
+      <item value="验证" />
+      <item value="refresh Token Validity Seconds" />
+      <item value="access Token Validity Seconds" />
+      <item value="不可变" />
+      <item value="可不变" />
+      <item value="拦截" />
+      <item value="暗战" />
+      <item value="表达式" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="157" />
+        <entry key="ENGLISH" value="158" />
+        <entry key="DANISH" value="2" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="SPANISH" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
