@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fail" />
+      <item value="失败" />
       <item value="deleted" />
       <item value="optional" />
       <item value="Wrapper" />
@@ -49,12 +51,10 @@
       <item value="refresh Token Validity Seconds" />
       <item value="access Token Validity Seconds" />
       <item value="不可变" />
-      <item value="可不变" />
-      <item value="拦截" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="159" />
+        <entry key="CHINESE" value="160" />
         <entry key="ENGLISH" value="160" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
