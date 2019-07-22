@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Event published once the application context has been refreshed but before any * {@link ApplicationRunner application} and {@link CommandLineRunner command line} * runners have been called." />
       <item value="fail" />
       <item value="失败" />
       <item value="deleted" />
@@ -50,12 +51,11 @@
       <item value="验证" />
       <item value="refresh Token Validity Seconds" />
       <item value="access Token Validity Seconds" />
-      <item value="不可变" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="ENGLISH" value="161" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SPANISH" value="2" />
