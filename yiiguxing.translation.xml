@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="encoded" />
+      <item value="ram Peres" />
       <item value="Specifies whether parameter names and values are already encoded." />
       <item value="defaults" />
       <item value="Event published once the application context has been refreshed but before any * {@link ApplicationRunner application} and {@link CommandLineRunner command line} * runners have been called." />
@@ -49,8 +51,6 @@
       <item value="depoty" />
       <item value="发布" />
       <item value="mobile" />
-      <item value="test and verify" />
-      <item value="验证" />
     </histories>
     <option name="languageScores">
       <map>
