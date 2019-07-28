@@ -2,7 +2,13 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
+        <option name="convertByteOrShortToInt" value="true" />
+        <option name="generateMethodInService" value="true" />
+        <option name="generateMethodInServiceInterface" value="true" />
+        <option name="ifTestStringNullAndEmpty" value="true" />
         <option name="tempFilePath" value="/var/folders/mq/l0wj3z0568z8514b036b0d_c0000gn/T/startLearnGo-darwin-10.6-amd64.dylib8125285237325148647" />
+        <option name="useActualParamNames" value="true" />
+        <option name="usejava8LocalDateTimeEct" value="true" />
         <option name="valid" value="true" />
       </Profile>
     </option>
