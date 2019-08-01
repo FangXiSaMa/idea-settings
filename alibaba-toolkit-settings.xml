@@ -1,6 +1,8 @@
 <application>
   <component name="DockerStore">
     <option name="dockerConnectionType" value="TCP" />
+    <option name="dockerLocation" value="http://127.0.0.1:2375" />
+    <option name="dockerPath" value="" />
     <option name="dockerUri" value="http://127.0.0.1:2375" />
   </component>
 </application>
