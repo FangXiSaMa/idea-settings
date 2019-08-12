@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="订单" />
       <item value="UNAUTHORIZED" />
       <item value="FORBIDDEN" />
       <item value="拦截器" />
@@ -50,7 +51,6 @@
       <item value="Correct the classpath of your application so that it contains a single, compatible version of com.baomidou.mybatisplus.core.MybatisConfiguration" />
       <item value="Forbidden" />
       <item value="Unauthorized" />
-      <item value="SAME NUMBER" />
     </histories>
     <option name="languageScores">
       <map>
