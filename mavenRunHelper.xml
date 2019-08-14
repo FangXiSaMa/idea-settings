@@ -37,6 +37,9 @@
             <Goal>
               <option name="commandLine" value="clean package" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="clean deploy" />
+            </Goal>
           </list>
         </option>
       </Goals>
