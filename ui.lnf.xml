@@ -1,6 +1,9 @@
 <application>
   <component name="UISettings">
     <option name="DISABLE_MNEMONICS_IN_CONTROLS" value="true" />
+    <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
+    <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
