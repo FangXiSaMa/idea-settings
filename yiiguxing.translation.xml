@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="回掉" />
       <item value="no server available" />
       <item value="订单" />
       <item value="UNAUTHORIZED" />
@@ -50,7 +51,6 @@
       <item value="Not Implemented" />
       <item value="This will be used as the bean name instead of name if present, but will not be used * as a service id." />
       <item value="Correct the classpath of your application so that it contains a single, compatible version of com.baomidou.mybatisplus.core.MybatisConfiguration" />
-      <item value="Forbidden" />
     </histories>
     <option name="languageScores">
       <map>
