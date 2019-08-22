@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unique" />
+      <item value="唯一" />
       <item value="回掉" />
       <item value="no server available" />
       <item value="订单" />
@@ -49,12 +51,10 @@
       <item value="Service Unavailable" />
       <item value="Bad Gateway" />
       <item value="Not Implemented" />
-      <item value="This will be used as the bean name instead of name if present, but will not be used * as a service id." />
-      <item value="Correct the classpath of your application so that it contains a single, compatible version of com.baomidou.mybatisplus.core.MybatisConfiguration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="164" />
+        <entry key="CHINESE" value="165" />
         <entry key="ENGLISH" value="165" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
