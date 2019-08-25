@@ -1,11 +1,6 @@
 <application>
   <component name="libraryTable">
     <library name="groovy-2.5.8">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="groovy-2.5.8 (2)">
       <CLASSES>
         <root url="jar:///usr/local/Cellar/groovy/2.5.8/libexec/lib/gpars-1.2.1.jar!/" />
         <root url="jar:///usr/local/Cellar/groovy/2.5.8/libexec/lib/commons-logging-1.2.jar!/" />
